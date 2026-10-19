@@ -1497,15 +1497,6 @@ After completing this assignment, you should be able to:
     plans.
 -   Use window functions for ranking, comparisons, and running totals.
 
-## Practice Tips
-
-1.  Create small sample tables such as `Movies`, `Reviews`, `Employees`,
-    and `Sales`.
-2.  Run each example and compare the output with the explanation.
-3.  Always check your `WHERE` condition before running `UPDATE` or
-    `DELETE`.
-4.  Check your database's documentation when syntax differs between
-    MySQL, PostgreSQL, SQL Server, or SQLite.
 
 ------------------------------------------------------------------------
 
