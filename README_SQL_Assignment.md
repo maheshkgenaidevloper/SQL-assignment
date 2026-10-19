@@ -4,15 +4,6 @@
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-success?style=for-the-badge)
 ![Practice](https://img.shields.io/badge/Focus-Questions%20%26%20Examples-orange?style=for-the-badge)
 
-A beginner-friendly SQL assignment with short answers and **one simple
-example for each question**. The questions are arranged from core
-concepts to advanced database features.
-
-> **Note:** SQL syntax varies slightly between database systems.
-> Examples mainly use common SQL or MySQL-style syntax. A few questions
-> in the original assignment refer to a query whose text was not
-> included; for those, a representative example is provided instead.
-
 ## Table of Contents
 
 1.  [SQL Fundamentals](#1-sql-fundamentals)
